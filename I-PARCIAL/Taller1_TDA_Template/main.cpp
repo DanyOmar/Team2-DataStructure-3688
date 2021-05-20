@@ -13,10 +13,10 @@ int main(int argc, char** argv) {
 	cout<<"Ingrese el valor [2]: "<<endl;
 	cin>>valor2;
 	Operaciones<float>operacion(valor1,valor2);
-	cout<<"Suma: "<<operacion.suma()<<endl;
-	cout<<"Resta: "<<operacion.resta()<<endl;
-	cout<<"Multiplicación: "<<operacion.multiplicacion()<<endl;
-	cout<<"División: "<<operacion.division()<<endl;
+	cout <<"Suma: "<<operacion.suma()<<endl;
+	cout <<"Resta: "<<operacion.resta()<<endl;
+	cout <<"MultiplicaciÃ³n: "<<operacion.multiplicacion()<<endl;
+	cout <<"DivisiÃ³n: "<<operacion.division()<<endl;
 	return 0;
 }
 
