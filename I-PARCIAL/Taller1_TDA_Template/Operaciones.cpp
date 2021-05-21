@@ -37,7 +37,7 @@ void Operaciones<tipoDato>::setValor1(tipoDato val_1){
 ////////////////////////////////////////////////////////////////////////
 template <typename tipoDato>
 void Operaciones<tipoDato>::setValor2(tipoDato val_2){
-	valor2=val_2;
+	valor2 = val_2;
 }
 ////////////////////////////////////////////////////////////////////////
 // Name:       <typename tipoDato>
