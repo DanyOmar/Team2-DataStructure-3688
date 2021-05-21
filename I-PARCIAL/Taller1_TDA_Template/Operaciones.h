@@ -12,8 +12,8 @@ class Operaciones{
             valor1 = _valor1;
             valor2 = _valor2;
         }
-         //setters
-        tipoDato setValor1(int _valor1){
+         	//setters
+        	tipoDato setValor1(int _valor1){
         	valor1 = _valor1;
 		}
 		tipoDato setValor2(int _valor2){
