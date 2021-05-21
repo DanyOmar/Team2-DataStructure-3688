@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 			UFA-ESPE
 			SOFTWARE
@@ -6,6 +7,17 @@
 			Fecha de creación: 19/05/2021
 			Fecha de modificación: 20/05/2021
 */
+=======
+/*********************************************************************
+			UFA-ESPE
+			SOFTWARE
+			Autores: Chasiluisa Santiago, Chicango George,
+				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
+			Fecha de creación: 19/05/2021
+			Fecha de modificación: 20/05/2021
+*********************************************************************/
+#pragma once
+>>>>>>> 8cb3862a5333f9b052f7f51f2d9b1e74d6792e9c
 #include<iostream>
 #include "Operaciones.h"
 
