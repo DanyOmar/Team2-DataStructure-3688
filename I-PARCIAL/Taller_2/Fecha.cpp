@@ -15,8 +15,7 @@
 // Return:     int
 ////////////////////////////////////////////////////////////////////////
 
-int Fecha::getDia(void)
-{
+int Fecha::getDia(void){
    return dia;
 }
 
@@ -28,8 +27,7 @@ int Fecha::getDia(void)
 // Return:     void
 ////////////////////////////////////////////////////////////////////////
 
-void Fecha::setDia(int newDia)
-{
+void Fecha::setDia(int newDia){
    dia = newDia;
 }
 
