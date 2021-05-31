@@ -1,3 +1,12 @@
+/*
+			UFA-ESPE
+			SOFTWARE
+			Autores: Chasiluisa Santiago, Chicango George,
+				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
+			Tema: Arreglo estático
+			Fecha de creación: 28/05/2021
+			Fecha de modificación: 28/05/2021
+*/
 #include "pch.h"
 #include "CppUnitTest.h"
 #include "../Deber2/Vector.cpp"
