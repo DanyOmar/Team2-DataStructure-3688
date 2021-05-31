@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1622503120 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\sobrecargas_de_datos\operadores_sobrecargados\main.cpp
+	<iostream>
+	"Datos.h"
+	"Operaciones.h"
+
+1622500577 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\sobrecargas_de_datos\operadores_sobrecargados\datos.cpp
+	"Operaciones.h"
+	"Datos.h"
+
+1622501727 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\sobrecargas_de_datos\operadores_sobrecargados\operaciones.h
+	"Datos.h"
+
+1622500048 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\sobrecargas_de_datos\operadores_sobrecargados\datos.h
+
+1622501727 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\sobrecargas_de_datos\operadores_sobrecargados\operaciones.cpp
+	"Operaciones.h"
+	"Datos.h"
+
