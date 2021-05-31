@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1622431478 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\talleres\memoria estatica\main.cpp
+	<iostream>
+	"Operaciones.cpp"
+	"Vector.h"
+
+1622431405 e:\george\mis documentos\espe\iii_semestre\estructura de datos\talleres\memoria estatica\operaciones.h
+	<iostream>
+
+1622431599 e:\george\mis documentos\espe\iii_semestre\estructura de datos\talleres\memoria estatica\vector.h
+	<iostream>
+
+1622431405 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\talleres\memoria estatica\operaciones.cpp
+	<iostream>
+	"Operaciones.h"
+	<stdlib.h>
+
+1622431302 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\talleres\memoria estatica\vector.cpp
+	<iostream>
+	"Vector.h"
+
+1622431405 e:\george\mis documentos\espe\iii_semestre\estructura de datos\talleres\memoria estatica\operaciones.cpp
+	<iostream>
+	"Operaciones.h"
+	<stdlib.h>
+
