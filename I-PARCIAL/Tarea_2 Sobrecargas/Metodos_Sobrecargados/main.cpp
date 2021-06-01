@@ -39,6 +39,9 @@ int main()
     printf("Suma de 4 numeros : %.2f \n",operaciones.Suma(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
 
     //Resta
+    printf("\nResta de 2 numeros : %.2f \n",operaciones.Resta(datos.getValor1(),datos.getValor2()));
+    printf("Resta de 3 numeros : %.2f \n",operaciones.Resta(datos.getValor1(),datos.getValor2(),datos.getValor3()));
+    printf("Resta de 4 numeros : %.2f \n",operaciones.Resta(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
 
     //Multiplicacion
 

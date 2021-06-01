@@ -20,6 +20,9 @@ public:
    float Suma(float _dato1, float _dato2, float _dato3);
    float Suma(float _dato1, float _dato2, float _dato3, float _dato4);
 
+   float Resta(float _dato1, float _dato2);
+   float Resta(float _dato1, float _dato2, float _dato3);
+   float Resta(float _dato1, float _dato2, float _dato3, float _dato4);
 };
 
 #endif
