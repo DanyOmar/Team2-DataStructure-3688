@@ -2,9 +2,9 @@
 			UFA-ESPE
 			SOFTWARE
 			Autores: Chasiluisa Santiago, Chicango George,
-				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
-			Fecha de creación: 28/05/2021
-			Fecha de modificación: 31/05/2021
+				GualotuÃ±a Omar, LoachamÃ­n Johnny, Zumba Alvaro
+			Fecha de creaciÃ³n: 28/05/2021
+			Fecha de modificaciÃ³n: 31/05/2021
 
  ***********************************************************************/
 
@@ -44,7 +44,10 @@ int main()
     printf("Resta de 4 numeros : %.2f \n",operaciones.Resta(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
 
     //Multiplicacion
-
+    printf("\nMultiplicacion de 2 numeros : %.2f \n",operaciones.Multiplicacion(datos.getValor1(),datos.getValor2()));
+    printf("Multiplicacion de 3 numeros : %.2f \n",operaciones.Multiplicacion(datos.getValor1(),datos.getValor2(),datos.getValor3()));
+    printf("Multiplicacion de 4 numeros : %.2f \n",operaciones.Multiplicacion(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
+	
     //Numero Mayor
 
 
