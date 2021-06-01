@@ -2,9 +2,9 @@
 			UFA-ESPE
 			SOFTWARE
 			Autores: Chasiluisa Santiago, Chicango George,
-				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
-			Fecha de creación: 28/05/2021
-			Fecha de modificación: 31/05/2021
+				GualotuÃ±a Omar, LoachamÃ­n Johnny, Zumba Alvaro
+			Fecha de creaciÃ³n: 28/05/2021
+			Fecha de modificaciÃ³n: 31/05/2021
 
  ***********************************************************************/
 
@@ -23,6 +23,11 @@ public:
    float Resta(float _dato1, float _dato2);
    float Resta(float _dato1, float _dato2, float _dato3);
    float Resta(float _dato1, float _dato2, float _dato3, float _dato4);
+
+   float Multiplicacion(float _dato1, float _dato2);
+   float Multiplicacion(float _dato1, float _dato2, float _dato3);
+   float Multiplicacion(float _dato1, float _dato2, float _dato3, float _dato4);	
+
 };
 
 #endif
