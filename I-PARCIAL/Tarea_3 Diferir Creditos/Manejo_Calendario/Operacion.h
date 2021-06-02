@@ -1,8 +1,11 @@
 /***********************************************************************
- * Module:  Operacion.h
- * Author:  George
- * Modified: martes, 1 de junio de 2021 0:05:10
- * Purpose: Declaration of the class Operacion
+			UFA-ESPE
+			SOFTWARE
+			Autores: Chasiluisa Santiago, Chicango George,
+				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
+			Fecha de creación: 28/05/2021
+			Fecha de modificación: 01/06/2021
+
  ***********************************************************************/
 
 #if !defined(__Class_Diagram_4_Operacion_h)
@@ -15,8 +18,6 @@ class Operacion
 {
 public:
    void Calendario(Datos,Fecha);
-   void Imprimir(Datos);
-   void Asignacion(void);
    Operacion();
    ~Operacion();
 

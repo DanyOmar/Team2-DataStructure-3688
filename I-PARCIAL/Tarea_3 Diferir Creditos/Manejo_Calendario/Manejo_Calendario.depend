@@ -1,27 +1,27 @@
 # depslib dependency file v1.0
-1622592491 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\main.cpp
+1622605462 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\main.cpp
 	<iostream>
 	"Datos.h"
 	"Operacion.h"
 
-1622569359 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\datos.cpp
+1622605462 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\datos.cpp
 	<iostream>
 	<string>
 	"Datos.h"
 	"Fecha.h"
 
-1622582758 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\datos.h
+1622605462 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\datos.h
 	<iostream>
 
-1622583311 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.h
+1622605462 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.h
 	<iostream>
 
-1622582806 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.cpp
+1622605462 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.cpp
 	<iostream>
 	"Datos.h"
 	"Fecha.h"
 
-1622602734 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.cpp
+1622609682 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.cpp
 	<iostream>
 	"Operacion.h"
 	"Datos.h"
@@ -30,7 +30,7 @@
 	<sstream>
 	<cstdlib>
 
-1622592491 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.h
+1622605462 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.h
 	<iostream>
 	"Fecha.h"
 	"Datos.h"

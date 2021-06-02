@@ -1,8 +1,11 @@
 /***********************************************************************
- * Module:  Datos.cpp
- * Author:  George
- * Modified: martes, 1 de junio de 2021 0:03:37
- * Purpose: Implementation of the class Datos
+			UFA-ESPE
+			SOFTWARE
+			Autores: Chasiluisa Santiago, Chicango George,
+				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
+			Fecha de creación: 28/05/2021
+			Fecha de modificación: 01/06/2021
+
  ***********************************************************************/
 #include <iostream>
 #include <string>

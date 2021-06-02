@@ -1,13 +1,16 @@
 /***********************************************************************
- * Module:  Datos.h
- * Author:  George
- * Modified: martes, 1 de junio de 2021 0:03:37
- * Purpose: Declaration of the class Datos
- ***********************************************************************/
+			UFA-ESPE
+			SOFTWARE
+			Autores: Chasiluisa Santiago, Chicango George,
+				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
+			Fecha de creación: 28/05/2021
+			Fecha de modificación: 01/06/2021
 
+ ***********************************************************************/
 #if !defined(__Class_Diagram_4_Datos_h)
 #define __Class_Diagram_4_Datos_h
 #include<iostream>
+
 using namespace std;
 
 class Datos

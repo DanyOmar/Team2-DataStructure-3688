@@ -46,12 +46,12 @@ void Operacion::Calendario(Datos datos, Fecha fecha )
     int j=0,dias,conatdor_dias;
 
     for(_anio;_anio<contador_anio;_anio++){
-        for(int i=0;i<12;i++,j++){
+        for(int i=1;i<=12;i++,j++){
                 if(j==datos.getDiferido()-1){
                     _anio = contador_anio;
                     i = 12;
-                }else if(i==0&&j==0){
-                    i=_mes+1;
+                }else if(i==1&&j==0){
+                    i=_mes;
                 }else{
                 }
                 int a = (14 - i) / 12;
@@ -91,46 +91,8 @@ void Operacion::Calendario(Datos datos, Fecha fecha )
                         printf("\n%d. Fecha de Pago [ %d/%d/%d ].",j+1,_dia+2,i,_anio);
                     break;
                 }
-
-
-
-
-                //printf("\n%d. Fecha de Pago [ %d / %d / %d ].",j+1,fecha.getDia(),fecha.getMes(),fecha.getAnio());
             }
     }
-
-
-
-
-
-
-
-}
-
-////////////////////////////////////////////////////////////////////////
-// Name:       Operacion::Imprimir()
-// Purpose:    Implementation of Operacion::Imprimir()
-// Return:     void
-////////////////////////////////////////////////////////////////////////
-
-void Operacion::Imprimir(Datos datos)
-{
-    Fecha fecha[datos.getDiferido()];
-   for(int i=0; i<datos.getDiferido();i++){
-        printf("\n%d. Fecha de Pago [ %d/%d/%d ].",i+1,fecha[i].getDia(),fecha[i].getMes(),fecha[i].getAnio());
-   }
-   printf("\n");
-}
-
-////////////////////////////////////////////////////////////////////////
-// Name:       Operacion::Asignacion()
-// Purpose:    Implementation of Operacion::Asignacion()
-// Return:     void
-////////////////////////////////////////////////////////////////////////
-
-void Operacion::Asignacion(void)
-{
-   // TODO : implement
 }
 
 ////////////////////////////////////////////////////////////////////////

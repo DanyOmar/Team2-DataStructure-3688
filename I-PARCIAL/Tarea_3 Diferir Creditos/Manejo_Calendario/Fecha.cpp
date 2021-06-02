@@ -1,8 +1,11 @@
 /***********************************************************************
- * Module:  Fecha.cpp
- * Author:  George
- * Modified: lunes, 31 de mayo de 2021 23:52:45
- * Purpose: Implementation of the class Fecha
+			UFA-ESPE
+			SOFTWARE
+			Autores: Chasiluisa Santiago, Chicango George,
+				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
+			Fecha de creación: 28/05/2021
+			Fecha de modificación: 01/06/2021
+
  ***********************************************************************/
 
 #include <iostream>
