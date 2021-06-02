@@ -26,7 +26,16 @@ public:
 
    float Multiplicacion(float _dato1, float _dato2);
    float Multiplicacion(float _dato1, float _dato2, float _dato3);
-   float Multiplicacion(float _dato1, float _dato2, float _dato3, float _dato4);	
+   float Multiplicacion(float _dato1, float _dato2, float _dato3, float _dato4);
+
+   float Mayor(float _dato1, float _dato2);
+   float Mayor(float _dato1, float _dato2, float _dato3);
+   float Mayor(float _dato1, float _dato2, float _dato3, float _dato4);
+
+   float Menor(float _dato1, float _dato2);
+   float Menor(float _dato1, float _dato2, float _dato3);
+   float Menor(float _dato1, float _dato2, float _dato3, float _dato4);
+
 
 };
 

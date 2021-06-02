@@ -15,3 +15,19 @@
 
 1622495191 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\sobrecargas_de_datos\metodos_sobrecargados\datos.h
 
+1622496916 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tarea_2 sobrecargas\metodos_sobrecargados\datos.cpp
+	"Operaciones.h"
+	"Datos.h"
+
+1622663551 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tarea_2 sobrecargas\metodos_sobrecargados\operaciones.h
+
+1622497033 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tarea_2 sobrecargas\metodos_sobrecargados\datos.h
+
+1622663749 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tarea_2 sobrecargas\metodos_sobrecargados\main.cpp
+	<iostream>
+	<Operaciones.h>
+	<Datos.h>
+
+1622663686 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tarea_2 sobrecargas\metodos_sobrecargados\operaciones.cpp
+	"Operaciones.h"
+

@@ -47,8 +47,18 @@ int main()
     printf("\nMultiplicacion de 2 numeros : %.2f \n",operaciones.Multiplicacion(datos.getValor1(),datos.getValor2()));
     printf("Multiplicacion de 3 numeros : %.2f \n",operaciones.Multiplicacion(datos.getValor1(),datos.getValor2(),datos.getValor3()));
     printf("Multiplicacion de 4 numeros : %.2f \n",operaciones.Multiplicacion(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
-	
+
     //Numero Mayor
+    printf("\nMayor de 2 numeros : %.2f \n",operaciones.Mayor(datos.getValor1(),datos.getValor2()));
+    printf("Mayor de 3 numeros : %.2f \n",operaciones.Mayor(datos.getValor1(),datos.getValor2(),datos.getValor3()));
+    printf("Mayor de 4 numeros : %.2f \n",operaciones.Mayor(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
+
+    //Numero Menor
+
+    printf("\nMenor de 2 numeros : %.2f \n",operaciones.Menor(datos.getValor1(),datos.getValor2()));
+    printf("Menor de 3 numeros : %.2f \n",operaciones.Menor(datos.getValor1(),datos.getValor2(),datos.getValor3()));
+    printf("Menor de 4 numeros : %.2f \n",operaciones.Menor(datos.getValor1(),datos.getValor2(),datos.getValor3(),datos.getValor4()));
+
 
 
 
