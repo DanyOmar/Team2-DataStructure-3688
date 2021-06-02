@@ -20,6 +20,17 @@ public:
    float operator - (Datos);
    float operator * (Datos);
 
+   float operator < (Datos);
+   float operator > (Datos);
+   bool operator == (Datos);
+
+   float operator / (Datos);
+   float operator += (Datos);
+   float operator -= (Datos);
+
+   float operator <= (Datos);
+   float operator >= (Datos);
+   bool operator != (Datos);
 
    ~Operaciones();
 

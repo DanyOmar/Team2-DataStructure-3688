@@ -34,9 +34,30 @@ int main()
     Operaciones operaciones;
 
 
-    printf("\nSuma de 2 numeros : %.2f \n",operaciones.operator+(datos));
-    printf("\Resta de 2 numeros : %.2f \n",operaciones.operator-(datos));
-    printf("\Multiplicacion de 2 numeros : %.2f \n",operaciones.operator*(datos));
+    printf("\nLa Suma de 2 numeros es: %.2f ",operaciones.operator+(datos));
+    printf("\nLa Resta de 2 numeros es: %.2f ",operaciones.operator-(datos));
+    printf("\nLa Multiplicacion de 2 numeros es: %.2f \n",operaciones.operator*(datos));
+
+    printf("\nEl Mayor de 2 numeros es: %.2f ",operaciones.operator >(datos));
+    printf("\nEl Menor de 2 numeros es: %.2f ",operaciones.operator <(datos));
+    bool verificar = operaciones.operator ==(datos);
+    if (verificar == false)
+        printf("\nLos numeros No son iguales!!\n");
+    else
+        printf("\nLos numeros son iguales!!\n");
+
+    printf("\nLa Division de 2 numeros es: %.2f ",operaciones.operator /(datos));
+    printf("\nSumar un numero al primer numero ingresado: %.2f",operaciones.operator += (datos));
+    printf("\nRestar un numero al primer numero ingresado: %.2f\n",operaciones.operator -= (datos));
+
+    printf("\nEl Mayor o igual de 2 numeros es: %.2f ",operaciones.operator >=(datos));
+    printf("\nEl Menor o igual de 2 numeros es: %.2f ",operaciones.operator <=(datos));
+
+    bool verificarUse = operaciones.operator !=(datos);
+    if (verificar == false)
+        printf("\nLos numeros No son iguales!!\n");
+    else
+        printf("\nLos numeros son iguales!!\n");
 
 
     return 0;
