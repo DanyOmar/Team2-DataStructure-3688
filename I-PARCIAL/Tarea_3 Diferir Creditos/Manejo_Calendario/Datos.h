@@ -30,11 +30,6 @@ public:
    int getDiferido();
    void setDiferido(int );
 
-
-   //~Datos();
-
-protected:
-
 };
 
 

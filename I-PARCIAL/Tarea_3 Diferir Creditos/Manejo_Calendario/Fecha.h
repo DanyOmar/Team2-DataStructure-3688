@@ -11,7 +11,7 @@
 #if !defined(__Class_Diagram_4_Fecha_h)
 #define __Class_Diagram_4_Fecha_h
 #include <iostream>
-class Datos;
+using namespace std;
 
 class Fecha
 {
@@ -29,9 +29,6 @@ public:
    void setAnio(int );
    Fecha();
    ~Fecha();
-
-   //Datos* datos;
-
 };
 
 #endif

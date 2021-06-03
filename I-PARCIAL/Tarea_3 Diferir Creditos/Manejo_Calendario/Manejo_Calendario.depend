@@ -10,10 +10,10 @@
 	"Datos.h"
 	"Fecha.h"
 
-1622605462 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\datos.h
+1622702507 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\datos.h
 	<iostream>
 
-1622605462 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.h
+1622702507 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.h
 	<iostream>
 
 1622605462 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\fecha.cpp
@@ -21,7 +21,7 @@
 	"Datos.h"
 	"Fecha.h"
 
-1622609682 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.cpp
+1622707113 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.cpp
 	<iostream>
 	"Operacion.h"
 	"Datos.h"
@@ -30,7 +30,7 @@
 	<sstream>
 	<cstdlib>
 
-1622605462 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.h
+1622707892 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\manejo_calendario\operacion.h
 	<iostream>
 	"Fecha.h"
 	"Datos.h"

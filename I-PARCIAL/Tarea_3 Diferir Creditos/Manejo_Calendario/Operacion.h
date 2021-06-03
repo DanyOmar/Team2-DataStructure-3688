@@ -18,13 +18,11 @@ class Operacion
 {
 public:
    void Calendario(Datos,Fecha);
+   Fecha definir(Fecha,int, int, int,int);
+   void Imprimir(Fecha,int);
+   void Imprimir(Datos);
    Operacion();
    ~Operacion();
-
-protected:
-private:
-
-
 };
 
 #endif
