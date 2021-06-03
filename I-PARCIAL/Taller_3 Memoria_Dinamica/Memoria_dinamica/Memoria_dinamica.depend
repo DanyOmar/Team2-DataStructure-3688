@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1622750867 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\memoria_dinamica\main.cpp
+	<iostream>
+	"Matriz.cpp"
+
+1622750756 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\memoria_dinamica\matriz.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+
+1622751270 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\memoria_dinamica\matriz.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<iostream>
+	"Matriz.h"
+
+1622751270 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\memoria_dinamica\matriz.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<iostream>
+	"Matriz.h"
+
