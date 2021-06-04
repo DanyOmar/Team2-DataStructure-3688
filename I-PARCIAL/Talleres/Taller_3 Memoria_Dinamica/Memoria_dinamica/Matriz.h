@@ -19,6 +19,7 @@ private:
 	T** filaColumna;
 	T dimension;
 public:
+	
 	Matriz();
 	Matriz(T** fiCo, T newDimension);
 	void ingreso(T** fiCo, int d);
@@ -26,10 +27,6 @@ public:
 	void imprimir(T** fiCo, int d);
 	void encerar(T** fiCo, int d);
 	T** memoria(int d);
-	void ingreso(T** fiCo, int d);
-	void proceso(T** fiCo1, T** fiCo2, T** fiCo3, int d);
-	void imprimir(T** fiCo, int d);
-	void encerar(T** fiCo, int d);
-	T** memoria(int d);
+	
 };
 
