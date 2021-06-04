@@ -2,9 +2,9 @@
 			UFA-ESPE
 			SOFTWARE
 			Autores: Chasiluisa Santiago, Chicango George,
-				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
-			Fecha de creación: 03/06/2021
-			Fecha de modificación: 03/06/2021
+				GualotuÃ±a Omar, LoachamÃ­n Johnny, Zumba Alvaro
+			Fecha de creaciÃ³n: 03/06/2021
+			Fecha de modificaciÃ³n: 03/06/2021
 *********************************************************************/
 
 #include <stdio.h>
@@ -38,21 +38,7 @@ Matriz<T>::Matriz(T** MatrizUse, T newDimension) {
 	dimension = newDimension;
 }
 
-//////////////////////////////////////////////////////////////////////////////////////////////
-// Name:       <typename T>
-// Purpose:    Implementation of Matriz<T>::ingreso(T** MatrizUse, int d)
-//Parameters:   T
-// Return:     void
-///////////////////////////////////////////////////////////////////////////////////////////////
-template <typename T>
-void Matriz<T>::ingreso(T** MatrizUse, int d) {
-	cout << "Ingrese los elementos de la matriz:" << endl;
-	for (int i = 0; i < d; i++) {
-		for (int j = 0; j < d; j++) {
-			cin>> (*(*(MatrizUse + i) + j));
-		}
-	}
-}
+
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 // Name:       <typename T>
