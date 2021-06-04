@@ -38,7 +38,21 @@ Matriz<T>::Matriz(T** MatrizUse, T newDimension) {
 	dimension = newDimension;
 }
 
-
+//////////////////////////////////////////////////////////////////////////////////////////////
+// Name:       <typename T>
+// Purpose:    Implementation of Matriz<T>::ingreso(T** MatrizUse, int d)
+//Parameters:   T
+// Return:     void
+///////////////////////////////////////////////////////////////////////////////////////////////
+template <typename T>
+void Matriz<T>::ingreso(T** MatrizUse, int d) {
+	cout << "Ingrese los elementos de la matriz:" << endl;
+	for (int i = 0; i < d; i++) {
+		for (int j = 0; j < d; j++) {
+			cin>> (*(*(MatrizUse + i) + j));
+		}
+	}
+}
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 // Name:       <typename T>
