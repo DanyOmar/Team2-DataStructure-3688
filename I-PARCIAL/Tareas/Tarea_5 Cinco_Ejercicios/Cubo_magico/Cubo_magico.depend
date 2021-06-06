@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1622851903 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\cubo_magico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<sstream>
+	"Matriz.h"
+
+1622852340 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\cubo_magico\matriz.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1622852412 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\cubo_magico\matriz.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"Matriz.h"
+
+1622846922 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\cubo_magico\matriz.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"Matriz.h"
+
