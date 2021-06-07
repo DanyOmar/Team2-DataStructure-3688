@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1609439980 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\matrix.cpp
+	"Matrix.h"
+
+1610572858 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\matrix.h
+	<stdexcept>
+
+1623041080 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\main.cpp
+	<iostream>
+	"Operacion.h"
+	"Vector.h"
+
+1623041289 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\operacion.cpp
+	"Operacion.h"
+	"Vector.h"
+	<iostream>
+	<conio.h>
+	<string>
+
+1623041080 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\operacion.h
+	"Vector.h"
+
+1622949825 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\dato.h
+	<iostream>
+
+1622950054 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\dato.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Dato.h"
+
+1623041080 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\vector.cpp
+	"Vector.h"
+	"iostream"
+
+1623041080 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\vector.h
+
