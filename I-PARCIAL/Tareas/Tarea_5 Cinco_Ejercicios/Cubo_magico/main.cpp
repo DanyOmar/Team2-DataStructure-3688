@@ -16,9 +16,9 @@ int main()
 
 
     do{
-        printf("Digite el tamaño del arreglo, solo numeros impares:");
+        printf("Digite el tamaÃ±o del arreglo, solo numeros impares:");
     	scanf("%d",&num);
-    }while(num%2==0||num<0);
+    }while(num%2 == 0||num<0);
     num=2*num-1;
 
     cuadrado=(int**)calloc(num,sizeof(int*));
