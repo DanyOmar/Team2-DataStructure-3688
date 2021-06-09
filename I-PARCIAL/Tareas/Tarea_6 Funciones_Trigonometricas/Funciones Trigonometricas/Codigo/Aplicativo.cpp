@@ -3,9 +3,9 @@
 			UFA-ESPE
 			SOFTWARE
 			Autores: Chasiluisa Santiago, Chicango George,
-				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
-			Fecha de creación: 28/05/2021
-			Fecha de modificación: 31/05/2021
+				GualotuÃ±a Omar, LoachamÃ­n Johnny, Zumba Alvaro
+			Fecha de creaciÃ³n: 28/05/2021
+			Fecha de modificaciÃ³n: 31/05/2021
  ***********************************************************************/
 #include <stdio.h>
 #include <iostream>
@@ -34,5 +34,5 @@ int main(){
 	cout<< "***CALCULO DE FUNCIONES TRIGONOMETRICAS : SENO, COSENO, TANGENTE***"<<endl<<endl;
 	cout<< endl << "SENO DE: "<< angulo1 << " ES= " << calculo1 <<endl;
 	cout<< "COSENO DE: "<< angulo1 << " ES= " <<calculo2 <<endl;
-	cout<< "TANGENTE DE: "<< angulo1 << " ES= "  <<calculo3 <<endl;
+	cout<< "TANGENTE DE: "<< angulo1 << " ES= "  << calculo3 <<endl;
 }
