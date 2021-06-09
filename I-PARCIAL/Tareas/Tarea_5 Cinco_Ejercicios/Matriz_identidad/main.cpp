@@ -2,9 +2,9 @@
 			UFA-ESPE
 			SOFTWARE
 			Autores: Chasiluisa Santiago, Chicango George,
-				Gualotuña Omar, Loachamín Johnny, Zumba Alvaro
-			Fecha de creación: 01/06/2021
-			Fecha de modificación: 05/06/2021
+				GualotuÃ±a Omar, LoachamÃ­n Johnny, Zumba Alvaro
+			Fecha de creaciÃ³n: 01/06/2021
+			Fecha de modificaciÃ³n: 05/06/2021
 
  ***********************************************************************/
 #include <iostream>
@@ -48,7 +48,7 @@ int main(){
     cout<<"\n\n\n";
 
     respuesta = obj.multiplicar(dimension,matriz,inversa);
-    cout<<"Matriz identidad: "<<endl;
+    cout << "Matriz identidad: "<<endl;
     obj.mostrar(dimension,respuesta);
 
 
