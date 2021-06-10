@@ -35,3 +35,24 @@
 
 1623041080 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\triangulo_pascal\vector.h
 
+1623275828 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_5 cinco_ejercicios\triangulo_pascal\triangulo pascal\main.cpp
+	<iostream>
+	"Operacion.h"
+	"Vector.h"
+
+1623275828 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_5 cinco_ejercicios\triangulo_pascal\triangulo pascal\operacion.h
+	"Vector.h"
+
+1623275828 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_5 cinco_ejercicios\triangulo_pascal\triangulo pascal\vector.h
+
+1623275828 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_5 cinco_ejercicios\triangulo_pascal\triangulo pascal\operacion.cpp
+	"Operacion.h"
+	"Vector.h"
+	<iostream>
+	<conio.h>
+	<string>
+
+1623275828 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_5 cinco_ejercicios\triangulo_pascal\triangulo pascal\vector.cpp
+	"Vector.h"
+	"iostream"
+
