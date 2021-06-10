@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623253788 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\listas\main.cpp
+	<iostream>
+	"Lista.h"
+
+1623251741 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\listas\nodo.cpp
+	"Nodo.h"
+
+1623253099 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\listas\nodo.h
+	<iostream>
+
+1623253027 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\listas\lista.cpp
+	"Lista.h"
+
+1623253435 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\listas\lista.h
+	<iostream>
+	"Nodo.h"
+
