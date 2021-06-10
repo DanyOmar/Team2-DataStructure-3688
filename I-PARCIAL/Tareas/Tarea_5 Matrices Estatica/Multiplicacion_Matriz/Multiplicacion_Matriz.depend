@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623361540 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\multiplicacion_matriz\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<Matriz.h>
+
+1623361507 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\multiplicacion_matriz\matriz.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"Matriz.h"
+
+1623361497 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\multiplicacion_matriz\matriz.h
+
