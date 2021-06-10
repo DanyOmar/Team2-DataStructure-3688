@@ -9,10 +9,13 @@ class Nodo
         Nodo *siguiente;
     public:
         Nodo();
-        Nodo(int val, Nodo *sig=NULL){
-            this-> valor=val;
-            this-> siguiente=sig;
-        }
+        Nodo(int val,Nodo*);
+        int getValor(void);
+        void setValor(int);
+        Nodo* getSiguiente(void);
+        void setSiguiente(Nodo*);
+
+
 
     friend class Lista;
 

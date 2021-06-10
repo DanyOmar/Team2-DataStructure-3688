@@ -1,17 +1,20 @@
 #include <iostream>
 #include "Lista.h"
+
+
 using namespace std;
 
 int main()
 {
     Lista lst;
-    lst.insertar(1);
-    lst.insertar(2);
-    lst.insertar(3);
-    lst.insertar(4);
-    lst.insertar(5);
+    int valor,dim;
+	dim = lst.ingreso("\nIngrese El Tamaño:");
+	for(int i=0;i<dim;i++){
+        valor = lst.ingreso("\nIngrese el dato entero:");
+        lst.insertar(valor);
+	}
+    printf("\n");
     lst.mostrar();
-
 
     return 0;
 }
