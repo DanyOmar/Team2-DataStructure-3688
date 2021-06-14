@@ -22,3 +22,26 @@
 	<iostream>
 	"Nodo.h"
 
+1623305063 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_10 listas\listas\lista.cpp
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"Lista.h"
+
+1623303913 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_10 listas\listas\lista.h
+	<iostream>
+	"Nodo.h"
+
+1623299715 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_10 listas\listas\nodo.h
+	<iostream>
+
+1623304263 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_10 listas\listas\main.cpp
+	<iostream>
+	"Lista.h"
+
+1623304916 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_10 listas\listas\nodo.cpp
+	<iostream>
+	"Nodo.h"
+

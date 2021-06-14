@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1623372212 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\main.cpp
+	<iostream>
+	"Menu.h"
+
+1623374583 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\menu.h
+	"Lista.h"
+
+1623382391 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\menu.cpp
+	<Windows.h>
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	"Menu.h"
+	"Lista.h"
+
+1623382240 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\lista.cpp
+	"Lista.h"
+	<iostream>
+	"Nodo.h"
+
+1623382391 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\lista.h
+	"Nodo.h"
+	<iostream>
+
+1623377756 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\nodo.h
+	<iostream>
+
+1623377756 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\menu_cursor\nodo.cpp
+	<iostream>
+	"Nodo.h"
+
