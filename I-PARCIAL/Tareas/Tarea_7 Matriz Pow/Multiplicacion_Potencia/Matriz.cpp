@@ -61,13 +61,15 @@ void Matriz::Ingresar1(){
 ////////////////////////////////////////////////////////////////////////
 
 void Matriz::Ingresar2(){
-    printf("\nIngrese segunda Matriz\n");
+   // printf("\nIngrese segunda Matriz\n");
    for(int i=0;i<3;i++)
    {
    		for(int j=0;j<3;j++)
    		{
-   		    printf("Matriz 1 [%d][%d]:",i,j);
-   		    scanf("%d",&vector2[i][j]);
+
+   		    //scanf("%d",&vector2[i][j]);
+   		    vector2[i][j]=vector1[i][j];
+
 		}
    }
 
@@ -88,19 +90,44 @@ void Matriz::imprimir(){
      }
 }
 
+void Matriz::Ingresar3(){
+   // printf("\nIngrese segunda Matriz\n");
+   for(int i=0;i<3;i++)
+   {
+   		for(int j=0;j<3;j++)
+   		{
+   		    //printf("Matriz 1 [%d][%d]:",i,j);
+   		    //scanf("%d",&vector2[i][j]);
+   		    vectorR[i][j]=vector1[i][j];
+   		     printf("\nMatriz R [%d]:",vectorR[i][j]);
+		}
+   }
+
+}
+
 ////////////////////////////////////////////////////////////////////////
 // Name:       Matriz::multiplicar()
 // Purpose:    Implementation of Matriz::multiplicar()
 // Return:     void
 ////////////////////////////////////////////////////////////////////////
 
-void Matriz::multiplicar(){
-    for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
-           vectorR[i][j]=vector1[i][j]*vector1[i][j];
-        }
-        printf("\n");
-     }
+void Matriz::multiplicar(int num){
+
+    for(int n=1;n<num;n++){
+    for (int i=0;i<3;i++){
+        for (int j=0;j<3;j++){
+            int suma = 0;
+            for (int k=0;k<3;k++)
+            {
+              suma+=vector1[i][k]*(vector2[k][j]);
+            }
+            vectorR[i][j]=suma;
+            vector1[i][j]= vectorR[i][j];
+            suma = 0;
+       }
+    }
+    //Ingresar3();
+    }
 }
 
 

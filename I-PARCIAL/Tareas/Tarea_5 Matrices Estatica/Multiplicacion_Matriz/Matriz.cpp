@@ -95,12 +95,17 @@ void Matriz::imprimir(){
 ////////////////////////////////////////////////////////////////////////
 
 void Matriz::multiplicar(){
-    for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
-           vectorR[i][j]=vector1[i][j]*vector2[i][j];
-        }
-        printf("\n");
-     }
+
+     for (int i=0;i<3;i++){
+        for (int j=0;j<3;j++){
+            int suma = 0;
+            for (int k=0;k<3;k++)
+            {
+              suma+=vector1[i][k]*vector2[k][j];
+            }
+            vectorR[i][j]= suma;
+       }
+    }
 }
 
 

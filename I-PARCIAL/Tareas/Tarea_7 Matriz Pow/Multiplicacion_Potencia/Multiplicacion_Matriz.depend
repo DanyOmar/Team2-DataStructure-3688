@@ -33,3 +33,20 @@
 	<stdio.h>
 	<Matriz.h>
 
+1623991273 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_7 matriz pow\multiplicacion_potencia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"Matriz.h"
+
+1623993882 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_7 matriz pow\multiplicacion_potencia\matriz.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"Matriz.h"
+
+1623992249 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_7 matriz pow\multiplicacion_potencia\matriz.h
+

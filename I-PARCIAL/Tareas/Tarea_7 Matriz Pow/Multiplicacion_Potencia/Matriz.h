@@ -18,8 +18,9 @@ class Matriz
         virtual ~Matriz();
         void Ingresar1();
         void Ingresar2();
+        void Ingresar3();
         void imprimir();
-        void multiplicar();
+        void multiplicar(int );
         int Getdim() { return dim; }
         void Setdim(int val) { dim = val; }
 

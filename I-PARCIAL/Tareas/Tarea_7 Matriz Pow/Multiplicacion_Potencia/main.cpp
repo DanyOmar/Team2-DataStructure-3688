@@ -11,16 +11,19 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <stdio.h>
-#include <Matriz.h>
+#include "Matriz.h"
 
 using namespace std;
 
 int main()
 {
+    int num;
     Matriz matriz;
     matriz.Ingresar1();
-    //matriz.Ingresar2();
-    matriz.multiplicar();
+    printf("\nIngrese la Potencia:");
+    scanf("%d",&num);
+    matriz.Ingresar2();
+    matriz.multiplicar(num);
     matriz.imprimir();
     matriz.~Matriz();
 
