@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623275829 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_9 funciones_trigonometricas\funcion coseno\operaciones.cpp
+	<iostream>
+	<stdlib.h>
+	"Operaciones.h"
+	<math.h>
+
+1623275829 c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_9 funciones_trigonometricas\funcion coseno\operaciones.h
+
+1624028349 source:c:\espe\estructuras\team2-datastructure-3688\i-parcial\tareas\tarea_9 funciones_trigonometricas\funcion coseno\main.cpp
+	<iostream>
+	"Operaciones.h"
+

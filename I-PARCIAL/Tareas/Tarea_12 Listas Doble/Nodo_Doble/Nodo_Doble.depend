@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1624028689 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\primer_parcial\nodo_doble\main.cpp
+	<iostream>
+	"lista_doble_enlazada.h"
+
+1623995631 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\primer_parcial\nodo_doble\lista_doble_enlazada.h
+	"Nodo.h"
+	<functional>
+
+1623686896 e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\primer_parcial\nodo_doble\nodo.h
+	<iostream>
+
+1623686762 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\primer_parcial\nodo_doble\nodo.cpp
+	"Nodo.h"
+	<iostream>
+
+1624026039 source:e:\george\mis documentos\espe\iii_semestre\estructura de datos\codeblooks\primer_parcial\nodo_doble\lista_doble_enlazada.cpp
+	"lista_doble_enlazada.h"
+
